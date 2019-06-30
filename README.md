@@ -13,3 +13,11 @@ The selection sort algorithm sorts an array by repeatedly finding the minimum el
 2) Remaining unsorted subarray.
 
 In every iteration of selection sort, the minimum element from the unsorted subarray is picked and moved to the sorted subarray.
+
+# Insertion sort Algorithm
+
+Insertion sort is both faster and well-arguably more simplistic than both bubble sort and selection sort. On each loop iteration, insertion sort removes one element from the array. It then finds the location where that element belongs within another sorted array and inserts it there. It repeats this process until no input elements remain.
+
+* used when the number of items in the array is less.
+* used when the array is nearly sorted
+
